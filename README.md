@@ -1,18 +1,8 @@
-# Ahmed Aziz Ben Haj Hmida  
-### Data Scientist & AI Engineer @ EPFL
+## EPFL Data Science Graduate (GPA: 5.3/6) | Computer Vision, Multimodal AI & LLMs           
 
-EPFL Data Science Graduate (GPA: 5.3/6) | Computer Vision, Multimodal AI & LLMs                                           
 Former Data Sceintist Intern @ Rollomatic SA | Former Research Assistant @ EPFL LTS5 Lab and @ EPFL LTS4 Lab
 
-Building intelligent systems at the intersection of **vision, language, and reasoning**
-
-## 🚀 About Me
-
-I recently completed my Master’s degree in Data Science at EPFL, with a strong focus on **Machine Learning, Computer Vision, NLP, and Reinforcement Learning**.
-
-I’m passionate about developing **applied AI systems** that are both scalable and reliable, bridging cutting-edge research with real-world impact.
-
-I have worked across both **industry and academic labs**, including Rollomatic SA and EPFL labs (LTS4, LTS5), and contributed to interdisciplinary AI research projects.
+I’m passionate about developing **applied AI systems** at the intersection of **vision, language, and reasoning** that are both scalable and reliable, bridging cutting-edge research with real-world impact.
 
 ## 💻 Programming Languages
 
