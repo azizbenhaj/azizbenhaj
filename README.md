@@ -63,6 +63,7 @@ I’m passionate about developing **applied AI systems** at the intersection of 
 ## 📫 Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/ahmed-aziz-ben-haj-hmida-315952254/
+- Website: https://azizbenhaj.github.io
 - Email: azizbenhajhmida@gmail.com
 
 ---
