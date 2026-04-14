@@ -1,6 +1,6 @@
 ## EPFL Data Science Graduate (GPA: 5.3/6) | Computer Vision, Multimodal AI & LLMs           
 
-Former Data Sceintist Intern @ Rollomatic SA | Former Research Assistant @ EPFL LTS5 Lab and @ EPFL LTS4 Lab
+**Former Data Sceintist Intern @ Rollomatic SA** | **Former Research Assistant @ EPFL LTS5 Lab and @ EPFL LTS4 Lab**
 
 I’m passionate about developing **applied AI systems** at the intersection of **vision, language, and reasoning** that are both scalable and reliable, bridging cutting-edge research with real-world impact.
 
