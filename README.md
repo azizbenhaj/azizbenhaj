@@ -14,16 +14,18 @@ I’m passionate about developing **applied AI systems** at the intersection of 
 
 ## 🤖 AI/ML Frameworks & Tools
 
-**Core ML:** PyTorch • Scikit-learn  
-**LLMs:** Hugging Face • Transformers • LangChain  
-**Training:** PEFT • LoRA • RLHF • Fine-tuning  
-**Computer Vision:** OpenCV • TorchVision  
-**MLOps:** Docker • CI/CD • GitHub Actions • Azure  
+**Core ML:** NumPy • Pandas • scikit-learn • PyTorch • PySpark
+**NLP & LLMs:** spaCy • Hugging Face • Transformers • LangChain • Quantization • SentenceTransformers 
+**Training:** PEFT • LoRA • RLHF • PEFT • Fine-tuning  
+**Agentic AI:** LangChain • LangGraph • LlamaIndex • Vector Search • FAISS • PostgreSQL • Prompt Engineering
+**Computer Vision:** OpenCV • scikit-image • TorchVision
+**Visualization:** Matplotlib • Seaborn • Plotly • Power BI
+**MLOps:** Git • Docker • CI/CD • GitHub Actions • Kubernetes • DVC • FastAPI • W&B • MLflow • Azure • GCP • AWS • Streamlit
 
 ## 🧠 Models & Architectures
 
 **LLMs:** LLaMA • Mistral • BERT • GPT  
-**Vision:** ViT • ResNet • Swin • DINOv2 • YOLO  
+**Vision:** ViT • ResNet • Swin • DINOv2 • YOLO • CNNs • Vision-Transformer
 **Multimodal:** CLIP • BLIP • LLaVA  
 **Generative:** GANs • VAEs • Diffusion Models  
 
