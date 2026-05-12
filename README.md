@@ -24,14 +24,14 @@ I’m passionate about developing **applied AI systems** at the intersection of 
 
 ## 🧠 Models & Architectures
 
-**LLMs:** LLaMA • Mistral • BERT • GPT  
-**Vision:** ViT • ResNet • Swin • DINOv2 • YOLO • CNNs • Vision-Transformer
-**Multimodal:** CLIP • BLIP • LLaVA  
+**LLMs:** LLaMA • Mistral • BERT • GPT    
+**Vision:** ViT • ResNet • Swin • DINOv2 • YOLO • CNNs • Vision-Transformer  
+**Multimodal:** CLIP • BLIP • LLaVA    
 **Generative:** GANs • VAEs • Diffusion Models  
 
 ## 🎯 Specializations
 
-- **Multimodal AI & Vision-Language Systems**  
+- **Multimodal AI & Vision-Language Systems**
 - **Computer Vision:** Detection • Segmentation • Scene Understanding  
 - **LLMs:** Fine-tuning • Evaluation • Scientific QA  
 - **Reinforcement Learning:** Policy Optimization  
