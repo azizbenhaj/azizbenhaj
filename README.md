@@ -1,6 +1,7 @@
 ##  Data Science Engineer | EPFL (GPA: 5.3/6) | Computer Vision, Multimodal AI & LLMs           
 
 **AI/ML Engineer @ New Wind Ventures, Geneva**. 
+
 **Former Data Engineer Intern @ Rollomatic SA** | **Former Research Assistant @ EPFL LTS5 Lab and @ EPFL LTS4 Lab**.
 
 I’m passionate about developing **applied AI systems** at the intersection of **vision, language, and reasoning** that are both scalable and reliable, bridging cutting-edge research with real-world impact.
